@@ -1,7 +1,10 @@
 ## 👋 Hi, I'm Sunmao
 
-Master of Data Science (UoM, 2024–2025), based in Melbourne. 
-Currently looking for **Data Engineer / Data Analyst** roles.
+Data Engineer based in Melbourne. 
+Currently looking for **Data Engineer** roles.
+
+Master of Data Science (UoM, 2024–2025)
+Bachelor of Data Science (UoM, 2021-2023)
 
 ### 🛠️ What I'm building
 
