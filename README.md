@@ -15,11 +15,11 @@ Bachelor of Data Science (UoM, 2021-2023)
   → [Repo](https://github.com/FerriesW/au-job-migration-project)
 
 ### 🧰 Tech stack
-**Cloud & Data:** GCP (BigQuery, Cloud Storage), AWS (S3, Glue, Athena), 
+- **Cloud & Data:** GCP (BigQuery, Cloud Storage), AWS (S3, Glue, Athena), 
 Snowflake, Apache Doris, MinIO, PostgreSQL/PostGIS, ElasticSearch  
-**Engineering:** Python, SQL, dbt, REST APIs, Docker, Git  
-**BI & Analytics:** Power BI, Plotly, scikit-learn, Pandas  
-**ML & AI:** Multi-LLM Evaluation, RAG, Vector Retrieval
+- **Engineering:** Python, SQL, dbt, REST APIs, Docker, Git  
+- **BI & Analytics:** Power BI, Plotly, scikit-learn, Pandas  
+- **ML & AI:** Multi-LLM Evaluation, RAG, Vector Retrieval
 
 ### 💼 Recent
 - **iFLYTEK** — Data Engineer (LLM benchmarking, ETL, OLAP warehouse)
